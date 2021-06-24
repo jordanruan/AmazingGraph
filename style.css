@@ -38,3 +38,59 @@ a:hover {
     transition: .5s;
     padding: 10%;
 }
+
+button {
+    padding: 20px 90px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    border: 0;
+    background-color: #D2872C;
+    color: white;
+    font-weight: 550;
+    margin-top: 20px;
+}
+
+button.active,
+button:hover {
+    background: black;
+    transition: .5s;
+}
+
+p {
+    color: #766F68;
+    font-size: 23px;
+}
+
+.container-1 {
+    margin: 100px 100px 0 220px;
+}
+
+h1 {
+    color: #766F68;
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+img {
+    max-width: 750px;
+    margin-top: 30px;
+    margin-right: 350px;
+    display: flex;
+}
+
+.texto {
+    position: absolute;
+    left: 250px;
+    top: 135px;
+}
+
+.container-1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.home {
+    align-items: center;
+    margin: auto;
+}
