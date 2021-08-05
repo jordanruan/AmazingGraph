@@ -37,10 +37,12 @@ body {
     flex: 1;
     font-size: 1.5rem;
     user-select: none;
+    font-weight: bold;
 }
 
 #logo {
     color: #d2872c;
+    font-size: 2.5rem;
 }
 
 .navbar-toggle {
@@ -49,6 +51,55 @@ body {
 
 .navbar-links a:hover {
     color: #d2872c;
+}
+
+.home {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 1.5rem;
+    padding: 50px 0;
+}
+
+.home-texto h1 {
+    position: relative;
+    width: 100%;
+    color: #766f68;
+    font-size: 4rem;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 45px;
+    text-align: left;
+}
+
+.home-texto h2 {
+    position: relative;
+    max-width: 370px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #766f68;
+    margin-bottom: 45px;
+}
+
+.button {
+    display: block;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 300;
+    font-weight: bold;
+    color: #fff;
+    padding: 15px 18px;
+    background-color: #d2872c;
+    border-radius: 15px;
+    max-width: 200px;
+    text-align: center;
+    text-decoration: none;
+    bottom: 150%;
+}
+
+.home-img img {
+    max-width: 100%;
+    width: 900px;
+    float: right;
 }
 
 @media (max-width:600px) {
