@@ -8,39 +8,21 @@
     <title>Amazing Graphics</title>
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" />
+    <script type="text/javascript" src="script.js" defer></script>
 </head>
 
 <body>
     <nav class="navbar">
-        <span class="navbar-toggle" id="js-navbar">
-        <i class="fas fa-bars"></i>
-      </span>
-        <a href="#home" class="header-logo">DevChallenge</a>
-        <ul class="navtoggle" id="menu">
-            <li><a href="#home" class="nav-links">Home</a></li>
-            <li><a href="#features" class="nav-links">Features</a></li>
-            <li><a href="#contact" class="nav-links">Contact</a></li>
+        <ul>
+            <li class="navbar-logo">
+                <a href="#home" id="logo">DevChallenge</a>
+            </li>
+            <li class="navbar-toggle"><i class="fas fa-bars"></i></li>
+            <li class="navbar-links"><a href="#home">Home</a></li>
+            <li class="navbar-links"><a href="#features">Features</a></li>
+            <li class="navbar-links"><a href="#contact">Contact</a></li>
         </ul>
     </nav>
-    <script type="text/javascript">
-        let mainav = document.getElementById('menu')
-        let navtoggle = document.getElementById('js-navbar')
-        navtoggle.addEventListener('click', function() {
-            mainav.classList.toggle('active')
-        })
-    </script>
-    <!-- <section class="home">
-    <div class="home-texto">
-        <h1>Create amazing <br>graphics</h1>
-        <p>Colaborate and create beautiful <br>graphics with your team</p>
-        <button> Start now </button>
-    </div>
-    <div class="home-img">
-        <img src="assets/team.jpg">
-    </div>
-    </div>
-</section> -->
-    <!--- js do menu-->
 </body>
 
 </html>
