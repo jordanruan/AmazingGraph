@@ -61,18 +61,14 @@ body {
 }
 
 .home-texto h1 {
-    position: relative;
-    width: 100%;
     color: #766f68;
     font-size: 4rem;
     font-weight: 700;
     margin-top: 20px;
     margin-bottom: 45px;
-    text-align: left;
 }
 
 .home-texto h2 {
-    position: relative;
     max-width: 370px;
     font-size: 1.5rem;
     font-weight: 400;
@@ -93,12 +89,11 @@ body {
     max-width: 200px;
     text-align: center;
     text-decoration: none;
-    bottom: 150%;
 }
 
 .home-img img {
     max-width: 100%;
-    width: 900px;
+    width: 800px;
     float: right;
 }
 
