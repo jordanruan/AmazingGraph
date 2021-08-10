@@ -1,6 +1,6 @@
 # Amazing Graph 📊
   ### Landing page para site de criação de gráficos. 
-  <a href="https://jordanruan.github.io/AmazingGraph/">Finalizado</a>
+  <a href="https://jordanruan.github.io/AmazingGraph/">Finalizado 🚀</a>
 
 ![banner](https://github.com/jordanruan/AmazingGraph/blob/main/design/desktop-mobile.png?raw=true)
 
