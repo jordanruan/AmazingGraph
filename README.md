@@ -1,4 +1,4 @@
-# Amazing Graph
+# Amazing Graph 📊
   Landing page para site de criação de gráficos.
 <br>
 ![banner](https://github.com/jordanruan/AmazingGraph/blob/main/design/desktop-mobile.png?raw=true)
@@ -6,7 +6,7 @@
 
 <a href="https://jordanruan.github.io/AmazingGraph/">Live Preview</a>
 
-## DevChallenge
+## DevChallenge 💡
 Desafio de Front-End proposto pelo Dev Challenge, site para desenvolvedores melhorarem suas habilidades.
 - <a href="https://devchallenge.com.br/challenges/5ec9a7fc10e94a38493d3910/details">DevChallenge</a>
 - Desafio por <a href="https://github.com/jordanruan/AmazingGraph">Jordan Ruan</a>
