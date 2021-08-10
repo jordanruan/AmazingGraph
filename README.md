@@ -1,5 +1,5 @@
 # Amazing Graph
-Landing page para site de criação de gráficos.
+- Landing page para site de criação de gráficos.
 <br>
 ![banner](https://github.com/jordanruan/AmazingGraph/blob/main/design/desktop-mobile.png?raw=true)
 
