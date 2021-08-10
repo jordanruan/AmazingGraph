@@ -113,4 +113,10 @@ body {
         display: block;
         background: #da9b4f;
     }
+    .home-texto {
+        text-align: center;
+    }
+    .button {
+        margin: 0 auto;
+    }
 }
