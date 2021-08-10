@@ -13,6 +13,7 @@ Desafio de Front-End proposto pelo Dev Challenge, site para desenvolvedores melh
 ## Techs 🛠
 - HTML5
 - CSS
+- Javascript
 
 
 ## Author 👨‍💻
